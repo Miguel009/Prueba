@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+body {
+  
+  background: #fff;
+  font-family: "Roboto", Arial;
+  border-top: 50px solid #D7142E; }
+
+ .comtext{
+ 	font-size: 40px;
+ 	font-family: 'Roboto', Arial;
+ 	margin-top: -40px;
+ 	color: #fff;
+ } 
+ .for {
+  width: 100%;
+  max-width: 500px;
+  padding: 30px;  
+  margin: auto;
+  background:#fff;
+  box-shadow: 0px 0px 10px red; }
+.contes {
+	margin-top: 0px;
+	width: 100%;
+	color: #04F38C;
+	padding: 20px; }
+	.contes .formularios {
+	    width: 100%;
+	    margin: auto; }
+	    .contes .formularios .input-group {
+      position: relative;
+      margin-bottom: 32px; }
+      .contes .formularios .input-group input[type="text"]{
+      	font-family: "Roboto", Arial;
+        font-size: 16px;
+        width: 100%;
+        outline: none;
+        padding: 15px;
+        background: none;
+        border: none;
+        border-bottom: 2px solid #6514D7;}
+        .contes .formularios .input-group input[type="text"]:focus, .Contenedor .formulario .input-group input[type="text"]:active{
+        	          outline: none;
+          border-bottom: 2px solid #14D0D7;
+        }
+        .contes .formularios .input-group input[type="text"].error{
+        	border-bottom: 2px solid #FC0404;
+        }
+        .contes .formularios .input-group input[type="text"].error + label{
+        	color: #FC0404;
+        }
+        .contes .formularios .input-group label {
+        color: #04F38C; }
+        .contes .formularios .input-group label.label {
+          position: absolute;
+          top: 16px;
+          left: 0px;
+          font-size: 16px;
+          line-height: 16px;
+          margin-left: 16px;
+          -webkit-transition: all 0.3s ease;
+          -o-transition: all 0.3s ease;
+          transition: all 0.3s ease; }
+          .contes .formularios .input-group label.label.active{
+            top: -12px;
+            font-size: 12px;
+            line-height: 12px;}
+          
+    .contes .formularios .input-group.error label {
+        color: #FC0404; }
+    .contes .formularios.input-group.error label:hover {
+          background: rgba(252, 4, 4, 0.2); }
+    .contes .formularios .input-group.error label:before {
+          border: 2px solid #FC0404; }
+    .contes .formularios input[type="submit"] {
+      background: #D7142E;
+      border-radius: 1px;
+      border: 2px solid #D7142E;
+      color: #fff;
+      cursor: pointer;
+      display: inline-block;
+      padding: 15px;
+      width: 100%;
+      font-family: "Roboto", Arial;
+      font-size: 16px;
+      -webkit-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      transition: all 0.3s ease; }
+    .contes .formularios input[type="submit"]:hover {
+        background: rgba(215, 20, 46, 0.8); }
+
+
+ .for1 {
+  width: 100%;
+ 
+  margin-top: 52%;  padding: 30px;  
+  margin: auto;
+  background:#fff;
+  box-shadow: 0px 0px 10px red; 
+	}

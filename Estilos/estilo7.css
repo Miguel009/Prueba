@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+	 -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body{
+	background: rgba(0, 0, 0, .8);
+	font-family: "Roboto", Arial;
+	border-top: 50px solid #000;
+}
+.titulo{
+	font-size: 40px;
+ 	font-family: 'Roboto', Arial;
+ 	margin-top: -40px;
+ 	color: #fff;
+ 	margin-left: 5px;
+}
+.contenedor-menu{
+
+	position: absolute;	
+	left: 40%;	
+	margin-top: 80px;			
+	display: inline-block;
+	background: red;
+	z-index: 1000;
+	/*border: 5px red solid;*/
+}
+.contenedor-menu .men{
+	width: 100%;
+}
+.contenedor-menu .men ul{
+	list-style: none;
+}
+.contenedor-menu .men li a{
+	border-bottom: 2px solid  rgba(255, 44, 44, 0.7);
+	list-style: none;
+	display: block;
+	padding: 12px 20px;
+	font-size: 15px;
+	color: #fff;
+	font-family: "Roboto", Arial;
+	background-color: rgba(0, 7, 0, 0.9);
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+.contenedor-menu .men .icono.derecha{
+	float: right;
+	margin-left: 5px;
+}
+.contenedor-menu .men li a:hover{
+	background-color: rgba(255, 44, 44, 0.7);
+}
+.contenedor-menu .men ul{
+	display: none;
+}
+.contenedor-menu .men ul li a{
+	background-color: rgba(148, 28, 28, 0.9);
+	color: #fff;
+	font-family: "Roboto", Arial;
+}
+.contenedor-menu .men .activado>a{
+	background-color: rgba(255, 44, 44, 0.7);
+	color: #fff;
+	font-family: "Roboto", Arial;
+
+}
+.men li{
+	list-style: none;
+}
+.men{
+	display: block;
+}
+.men a{
+
+	text-decoration: none;
+}
+@media screen and (max-width: 600px){
+	.contenedor-menu{
+		left: 0;
+		right: 0;	}
+}

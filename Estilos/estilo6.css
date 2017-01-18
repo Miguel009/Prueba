@@ -1,0 +1,548 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+
+body {
+  
+  background: rgba(0,0,0,.8);
+  font-family: "Roboto", Arial;
+  border-top: 50px solid #000; }
+
+.ggizi{
+	font-size: 40px;
+ 	font-family: 'Roboto', Arial;
+ 	margin-top: -40px;
+ 	color: #fff;
+ 	margin-left: 5px;
+}
+a{
+	text-decoration: none;
+}
+.fo {
+  width: 100%;
+  max-width: 300px;
+ height: 200px;
+  background:rgba(0, 127, 14, 1);
+  margin-top: 50px;
+  margin-left: 30px;
+  box-shadow: 0px 0px 10px #000; 
+}
+  .fo img{
+
+  width: 100%;
+  max-width: 300px;
+  height: 170px;
+   
+  }
+
+.t{
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Roboto', Arial;
+	font-weight: bold;	
+}
+.fo1 {
+  width: 100%;
+  max-width: 300px;
+ height: 200px;
+  background:rgba(0, 19, 127, 1);
+  margin-top: -199.9px;
+  margin-left: 365px;
+  box-shadow: 0px 0px 10px #000; }
+  .fo1 img{
+
+  width: 100%;
+  max-width: 300px;
+  height: 170px;
+   
+  }
+
+
+.fo2{
+width: 100%;
+  max-width: 300px;
+ height: 200px;
+  background:rgba(64, 64, 64, 1);
+  margin-top: -199.9px;
+  margin-left: 700px;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo2 img{
+
+  width: 100%;
+  max-width: 300px;
+  height: 170px;
+   
+  }
+.fo3{
+width: 100%;
+  max-width: 300px;
+ height: 200px;
+  background:rgba(0, 4, 178, 1);
+  margin-top: -199.9px;
+  margin-left: 1035px;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo3 img{
+
+  width: 100%;
+  max-width: 300px;
+  height: 170px;
+   
+  }
+
+@media screen and (max-width: 1300px){
+.fo {
+  width: 100%;
+  max-width: 300px;
+ height: 200px;
+  background:rgba(0, 127, 14, 1);
+  margin-top: 50px;
+  margin-left: 2%;
+  box-shadow: 0px 0px 10px #000; 
+}
+  .fo img{
+
+  width: 100%;
+  max-width: 300px;
+  height: 170px;
+   
+  }
+
+.t{
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Roboto', Arial;
+	font-weight: bold;	
+}
+.fo1 {
+  width: 100%;
+  max-width: 300px;
+ height: 200px;
+  background:rgba(0, 19, 127, 1);
+  margin-top: -199.9px;
+  margin-left: 26%;
+  box-shadow: 0px 0px 10px #000; }
+  .fo1 img{
+
+  width: 100%;
+  max-width: 300px;
+  height: 170px;
+   
+  }
+
+
+.fo2{
+width: 100%;
+  max-width: 300px;
+ height: 200px;
+  background:rgba(64, 64, 64, 1);
+  margin-top: -199.9px;
+  margin-left: 50%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo2 img{
+
+  width: 100%;
+  max-width: 300px;
+  height: 170px;
+   
+  }
+.fo3{
+width: 100%;
+  max-width: 300px;
+ height: 200px;
+  background:rgba(0, 4, 178, 1);
+  margin-top: -199.9px;
+  margin-left: 74%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo3 img{
+
+  width: 100%;
+  max-width: 300px;
+  height: 170px;
+   }
+}
+
+
+@media screen and (max-width: 1200px){
+	.fo {
+  width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 127, 14, 1);
+  margin-top: 50px;
+  margin-left: 1%;
+  box-shadow: 0px 0px 10px #000; 
+}
+  .fo img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+
+.t{
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Roboto', Arial;
+	font-weight: bold;	
+}
+.fo1 {
+  width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 19, 127, 1);
+  margin-top: -199.9px;
+  margin-left: 25.7%;
+  box-shadow: 0px 0px 10px #000; }
+  .fo1 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+
+
+.fo2{
+width: 100%;
+  max-width: 288px;
+ height: 200px;
+  background:rgba(64, 64, 64, 1);
+  margin-top: -199.9px;
+  margin-left: 50.4%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo2 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+.fo3{
+width: 100%;
+  max-width: 288px;
+ height: 200px;
+  background:rgba(0, 4, 178, 1);
+  margin-top: -199.9px;
+  margin-left: 74.5%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo3 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   }
+
+}
+@media screen and (max-width: 1150px){
+	.fo {
+  width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 127, 14, 1);
+  margin-top: 50px;
+  margin-left: 20%;
+  box-shadow: 0px 0px 10px #000; 
+}
+  .fo img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+
+.t{
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Roboto', Arial;
+	font-weight: bold;	
+}
+.fo1 {
+  width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 19, 127, 1);
+  margin-top: -199.9px;
+  margin-left: 50%;
+  box-shadow: 0px 0px 10px #000; }
+  .fo1 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+
+
+.fo2{
+width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(64, 64, 64, 1);
+  margin-top: 10px;
+  margin-left: 20%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo2 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+.fo3{
+width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 4, 178, 1);
+  margin-top: -199.9px;
+  margin-left: 50%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo3 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   }
+}
+@media screen and (max-width: 1000px){
+	.fo {
+  width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 127, 14, 1);
+  margin-top: 50px;
+  margin-left: 35%;
+  box-shadow: 0px 0px 10px #000; 
+}
+  .fo img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+
+.t{
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Roboto', Arial;
+	font-weight: bold;	
+}
+.fo1 {
+  width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 19, 127, 1);
+  margin-top: 10px;
+  margin-left: 35%;
+  box-shadow: 0px 0px 10px #000; }
+  .fo1 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+
+
+.fo2{
+width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(64, 64, 64, 1);
+  margin-top: 10px;
+  margin-left: 35%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo2 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+.fo3{
+width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 4, 178, 1);
+  margin-top: 10px;
+  margin-left: 35%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo3 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   }
+
+}
+
+@media screen and (max-width: 600px){
+		.fo {
+  width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 127, 14, 1);
+  margin-top: 50px;
+  margin-left: 20%;
+  box-shadow: 0px 0px 10px #000; 
+}
+  .fo img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+
+.t{
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Roboto', Arial;
+	font-weight: bold;	
+}
+.fo1 {
+  width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 19, 127, 1);
+  margin-top: 10px;
+  margin-left: 20%;
+  box-shadow: 0px 0px 10px #000; }
+  .fo1 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+
+
+.fo2{
+width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(64, 64, 64, 1);
+  margin-top: 10px;
+  margin-left: 20%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo2 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   
+  }
+.fo3{
+width: 100%;
+  max-width: 290px;
+ height: 200px;
+  background:rgba(0, 4, 178, 1);
+  margin-top: 10px;
+  margin-left: 20%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo3 img{
+
+  width: 100%;
+  max-width: 290px;
+  height: 170px;
+   }
+}
+
+@media screen and (max-width: 400px){
+			.fo {
+  width: 100%;
+  max-width: 282px;
+ height: 200px;
+  background:rgba(0, 127, 14, 1);
+  margin-top: 50px;
+  margin-left: 1%;
+  box-shadow: 0px 0px 10px #000; 
+}
+  .fo img{
+
+  width: 100%;
+  max-width: 282px;
+  height: 170px;
+   
+  }
+
+.t{
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Roboto', Arial;
+	font-weight: bold;	
+}
+.fo1 {
+  width: 100%;
+  max-width: 282px;
+ height: 200px;
+  background:rgba(0, 19, 127, 1);
+  margin-top: 10px;
+  margin-left: 1%;
+  box-shadow: 0px 0px 10px #000; }
+  .fo1 img{
+
+  width: 100%;
+  max-width: 282px;
+  height: 170px;
+   
+  }
+
+
+.fo2{
+width: 100%;
+  max-width: 282px;
+ height: 200px;
+  background:rgba(64, 64, 64, 1);
+  margin-top: 10px;
+  margin-left: 1%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo2 img{
+
+  width: 100%;
+  max-width: 282px;
+  height: 170px;
+   
+  }
+.fo3{
+width: 100%;
+  max-width: 282px;
+ height: 200px;
+  background:rgba(0, 4, 178, 1);
+  margin-top: 10px;
+  margin-left: 1%;
+  box-shadow: 0px 0px 10px #000; 
+}
+ .fo3 img{
+
+  width: 100%;
+  max-width: 282px;
+  height: 170px;
+   }
+}

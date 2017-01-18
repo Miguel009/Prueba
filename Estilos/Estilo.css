@@ -1,0 +1,1294 @@
+*{
+	margin:0;
+	padding: 0;
+	 }
+
+body{
+	background-color:	#fff;
+}
+
+header{
+	background-color: #000;
+    margin-top:0px; /*Simplemente agregamos un margen*/
+    width: 100%;
+    height: 80px; /*Le damos un alto fijo al menu*/
+    overflow: hidden; /*Agregamos un overflow hidden para que no se muestren elementos que sobrepasen los 150px de alto*/
+    position: relative; /*Convertimos el menu en posición relativa porque mas adelante en el header > nav pondremos una posición absoluta*/
+    margin-bottom: 50px;
+    -webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+
+.menu1 nav {
+	top: -20px; /*Le damos una separación superior*/
+	position: absolute;/*Convertimos el contenedor en posición absoluta*/
+	left:680px;/*Con left:0; y right:0; centramos el contenedor*/
+	right:0;
+	margin:20px auto;
+	max-width: 670px;
+	width: 90%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+
+.menu1 nav ul{
+	list-style: none;
+}
+
+.menu1 nav > ul{
+	display: table;
+	width: 100%;
+	background: #000;
+	position: relative;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+.menu1 nav>ul>li{
+	display: table-cell;
+}
+.menu1 nav>ul>li>ul{
+	display: none;
+}
+.menu1 nav>ul li a{
+
+	font-family: "Roboto", Arial;
+	font-size: 22px;
+	color:#fff;
+	display: block;/*cambiar el padding y tenemos el espaciodo*/
+	line-height: 20px;
+	padding: 30px;/*margen interno para separar*/
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+	
+}
+.menu1 nav>ul li a i{
+	color:#e8e817;	
+	
+}
+
+.menu1 nav > ul> li>ul>li a:hover{
+	background: #5da5a2;
+}
+
+.menu1 nav>ul>li>a span/*ingresamos en el span para poner la line a del menu*/{
+	background: #174459;
+	display: block;/*se convierte en bloque para poder cambiar el height*/
+	height: 100%;
+	width: 100%;
+	left:0;
+	position: absolute;
+	top: 0px;/*se usa para esconder los iconos*/
+	opacity: .0;
+	-webkit-transition: all .4s ease;
+	-moz-transition: all .4s ease;
+	-ms-transition: all .4s ease;
+	-o-transition: all .4s ease;
+	transition: all .4s ease;	
+
+}
+
+.menu1 nav>ul>li>a span .icon{
+	display: block;
+	line-height: 80px;	
+
+	
+}
+/*estamos llamando a las demas varibales hijas*/
+.menu1 nav>ul>li>a:hover>span{
+	opacity: 1;
+	/*da la animacion*/
+	-webkit-transition: all .4s ease;
+	-moz-transition: all .4s ease;
+	-ms-transition: all .4s ease;
+	-o-transition: all .4s ease;
+	transition: all .4s ease;	
+}
+/*colores del menu*/
+.menu1 nav ul li a .primero{
+	background:#ff1b1b;
+
+}
+.menu1  nav ul li a .segundo{
+	background:	#e40000;
+}
+ .menu1 nav ul li a .tercero{
+	background:#d20000;
+}
+.social{
+
+	position: fixed;
+	left: 0;
+	top: 200px;
+	
+
+}
+.social ul{
+	list-style: none;
+}
+
+.social ul li a{
+	display: inline-block;
+	background: #000;
+	padding: 10px 15px;
+	text-decoration: none;
+	color: #fff;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+.social ul li .icon-facebook2{
+	background: #3b5998;
+}
+.social ul li .icon-twitter{
+	background: #0CD5F4;
+}
+.social ul li .icon-google-plus{
+	background: #F45D0C;
+}
+.social ul li .icon-youtube{
+	background:#F40C0C ;
+}
+.social ul li .icon-envelop{
+	background: #4D4A44 ;
+}
+
+.social ul li a:hover{
+	padding: 10px 30px;
+
+}
+
+
+div.imagen {
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+	margin: auto;
+	margin-top: -40px;
+	position: center;
+	width:70%;
+	height: 400px;
+	
+}
+
+div.imagen img{
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+	width: 100%;
+	height: 400px;
+	
+}
+
+
+div.imagen2 {
+	
+	position: absolute;
+	width:90%;
+	height: 100px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+
+div.imagen2 img{
+	margin-left: 125px;
+	width: 90%;
+	max-width: 550px;
+	height: 90px;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+
+
+}
+div.imagen2 img:hover{
+	opacity: .1;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+
+
+}
+div.imagen10 {
+	
+	position: absolute;
+	width:90%;
+	height: 100px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+div.imagen10 img{
+	margin-left: 125px;
+	width: 90%;
+	max-width: 550px;
+	height: 90px;
+
+
+}
+
+
+
+
+/*creacion de formulario*/
+.wrap {
+	
+	width: 100%;
+	max-width: 500px;
+	height: 200px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 587px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+}
+.wrap:hover {
+	
+	box-shadow: 0px 0px 40px red; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+/*texto de primer formulario*/
+div .texto{
+	font-family: "Roboto", Arial;
+}
+
+/*parrafo del primer fomulario*/
+div .parrafo1{
+	font-family: "Roboto", Arial;
+	font-size: 20px;
+	text-align: justify;
+}
+/*imagen parte del formulario*/
+div .imagen3 img{
+	width: 330px;
+	height: 200px;
+	margin-left: -418px;
+	position: absolute;
+
+
+
+}
+div .imagen4 img{
+	width: 200px;
+	height: 100px;
+	margin-left: -418px;
+	position: absolute;
+	opacity: .7;
+
+}
+
+/*segundo formulario*/
+.wrap2 {
+	
+	width: 100%;
+	max-width: 500px;
+	height: 200px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 200px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+}
+.wrap2:hover {
+	
+	box-shadow: 0px 0px 40px red; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+
+/*segundo texto de formulario*/
+
+div .texto2{
+	font-family: "Roboto", Arial;
+}
+
+/*primer parrafo del formulario2*/
+div .parrafo2{
+	font-family: "Roboto", Arial;
+	font-size: 20px;
+	text-align: justify;
+}
+/*imagen para el segundo formulario*/
+div .imagen5 img{
+	width: 330px;
+	height: 200px;
+	margin-left: 589px;
+	position: absolute;
+
+}
+
+/*diseño del footer*/
+
+div.gg{
+
+	border:5px  solid;
+	background-image: url(foot.jpg);
+	background-size: 100%;
+	background-position: center;
+	width:99.25%;
+	
+
+}
+div.text{
+	color:#fff;
+	font-size: 18px;
+	font-family: "Roboto", Arial;
+}
+/*boton de comentario*/
+
+.yolo input[type=submit]{
+   width: 175.359px;
+   font-size: 14px;	
+  color: #fff;  
+   font-family: "Roboto", Arial;  
+  cursor: pointer;  
+  padding: 12px; 
+   border: 2px solid #D7142E;
+  border-radius: 1px;
+  display: inline-block;  
+  background-color: rgba(156, 11, 33, 1);
+  position: absolute;
+  top: 90px;
+  margin-left: 1em;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+  .yolo input[type=submit]:hover{   
+
+background-color: rgba(252, 0, 55, 0.5);
+  }   
+/*boton de patrocinio*/
+.yolo1 input[type=submit]{
+   width: 185px;
+   font-size: 14px;	
+  color: #fff;  
+   font-family: "Roboto", Arial;  
+  cursor: pointer;  
+  padding: 12px; 
+   border: 2px solid #3FFF00;
+  border-radius: 1px;
+  display: inline-block;  
+  background-color: rgba(0, 132, 29, 1);
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  margin-left: 85.5%;  
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+  .yolo1 input[type=submit]:hover{   
+
+background-color: rgba(0, 241, 33, 0.6);
+  }   
+.tuto{
+	top:135px;
+	font-size: 20px;
+	font-family: 'Roboto', Arial;
+	position: absolute;
+	margin-left: 1em;
+	
+}
+
+/*logo*/
+div.logo img{
+	margin-top: 10px;
+	width: 110px;
+	height: 60px;
+	margin-left: 0px;
+	border-radius: 20%;
+	
+
+	}
+div.logo2 img{	
+	width: 110px;
+	height: 60px;
+	margin-left: 0px;
+	margin-top: -64px;
+	position: absolute;
+	border-radius: 20%;
+}
+div.logo2 img:hover{
+	opacity: .0;
+
+}
+.conte1{
+	background: #000;
+	z-index: 1000;
+	position: fixed;
+	top: 0;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+	box-shadow: 0px 4px 5px  rgba(0,0,0,.5);
+
+}
+
+.conte1 nav {
+	top: -20px; /*Le damos una separación superior*/
+	position: absolute;/*Convertimos el contenedor en posición absoluta*/
+	left:679px;/*Con left:0; y right:0; centramos el contenedor*/
+	right:0;
+	margin:20px auto;
+	max-width: 670px;
+	width: 90%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+
+.Menu2{
+	display: none;
+
+}
+
+.Menu2 header{
+	width: 100%;
+	
+}
+
+.Menu2  nav {
+	width: 90%;
+	max-width: 1000px;
+	margin: 0px;
+	background:green;
+	z-index: 1000;
+
+}
+.Menu2  nav ul{
+	overflow: hidden;
+	list-style: none;
+}
+
+.Menu2 nav ul li{
+ float: left;
+}
+.Menu2 nav ul li a{
+   color: #fff;
+   font-family: "Roboto", Arial;
+   font-size: 20px;
+   padding: 20px;
+   display:block;
+   text-decoration: none;
+}
+.Menu2 nav ul li a:hover { 
+	background-color: rgba(255, 0, 0, 0.6);
+}
+
+.menu_bar{
+	display: none;
+}
+/*responsive*/
+@media screen and (max-width: 1300px){
+.yolo input[type=submit]{
+ 	width: 162px;
+  cursor: pointer;
+  font-size: 14px;  
+  color: #fff;  
+  padding: 12px;
+  font-family: "Roboto", Arial;  
+   border: 2px solid #D7142E;
+  border-radius: 1px;
+  display: inline-block;
+  background-color: rgba(156, 11, 33, 1);
+  position: absolute;
+  top: 90px;
+  margin-left: 0em;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; 
+}
+.yolo1 input[type=submit]{
+ 	width: 176px;
+  cursor: pointer;
+  font-size: 14px;  
+  color: #fff;  
+  padding: 12px;
+  font-family: "Roboto", Arial;    
+  border-radius: 1px;
+  display: inline-block;  
+  position: absolute;
+  top: 90px;
+  margin-left: 84%;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; 
+}
+	.menu1{
+	display: none;
+}
+
+
+.Menu2 {
+	display: block;	
+	
+}
+.Menu2  nav{
+	width: 50%;
+	height: 193px;
+	margin: 0;
+	position: fixed;
+	left: -100%;
+	background:#000;
+    opacity: .9;
+}
+
+.Menu2 nav ul li{
+	display: block;
+	float: none;
+	border-bottom:1px solid rgba(255, 255, 255, .3);
+}
+.menu_bar{
+	display: block;
+	width: 100%;
+	background: #00E9C5;
+}
+.menu_bar .Boton_M{
+	display: block;
+	padding: 20px;
+	background: #00E9C5;
+	font-size: 25px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+.menu_bar span{
+  float: right;
+  font-size: 40px;
+
+}
+
+
+div.imagen2 img{
+	display: none;
+
+
+}
+
+div.imagen10 img{
+	display: none;
+
+}
+
+.menu_bar{
+	display: block;
+	width: 100%;
+	background: #00E9C5;
+}
+
+.menu_bar .Boton_M{
+	display: block;
+	padding: 20px;
+	background: #000;	
+	font-size: 25px;
+	font-family: "Roboto", Arial;
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+
+.menu_bar span{
+  float: right;
+  font-size: 40px;
+  color: yellow;
+
+}
+
+.logo{
+display: none;
+}
+.logo2{
+	display: none;
+}
+header{
+	background-color: red;
+}
+div .imagen3 img{
+	display: none;
+
+
+
+}
+div .imagen4 img{
+	display: none;
+
+}
+.wrap {
+	
+	width: 100%;
+	max-width: 500px;
+	height: 200px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 23%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+}
+.wrap:hover {
+	
+	box-shadow: 0px 0px 40px red; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+/*texto de primer formulario*/
+div .texto{
+	font-family: "Roboto", Arial;
+}
+
+/*parrafo del primer fomulario*/
+div .parrafo1{
+	font-family: "Roboto", Arial;
+	font-size: 20px;
+	text-align: justify;
+}
+/*imagen parte del formulario*/
+div .imagen3 img{
+	display: none;
+
+
+
+}
+div .imagen4 img{
+	display: none;
+
+}
+/*formulario 2*/
+.wrap2 {
+	
+	width: 100%;
+	max-width: 500px;
+	height: 200px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 23%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+}
+.wrap2:hover {
+	
+	box-shadow: 0px 0px 40px red; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+div .texto2{
+	font-family: "Roboto", Arial;
+}
+
+/*primer parrafo del formulario2*/
+div .parrafo2{
+	font-family: "Roboto", Arial;
+	font-size: 20px;
+	text-align: justify;
+}
+/*imagen para el segundo formulario*/
+div .imagen5 img{
+	display: none;
+
+}
+div.gg{
+
+	border:3px  solid;
+	background-image: url(foot.jpg);
+	background-size: 100%;
+	background-position: center;
+	width:99.25%;
+	
+
+}
+div.text{
+	color:#fff;
+	font-size: 18px;
+	font-family: "Roboto", Arial;
+
+}
+
+}
+
+@media screen and (max-width: 1100px){
+
+.menu1{
+	display: none;
+}
+
+
+.Menu2 {
+	display: block;
+	
+}
+.Menu2  nav{
+	width: 50%;
+	height: 193px;
+	margin: 0;
+	position: fixed;
+	left: -100%;
+	background:#000;
+    opacity: .9;
+}
+
+.Menu2 nav ul li{
+	display: block;
+	float: none;
+	border-bottom:1px solid rgba(255, 255, 255, .3);
+}
+.menu_bar{
+	display: block;
+	width: 100%;
+	background: #00E9C5;
+}
+.menu_bar .Boton_M{
+	display: block;
+	padding: 20px;
+	background: #00E9C5;
+	font-size: 25px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+.menu_bar span{
+  float: right;
+  font-size: 40px;
+
+}
+
+
+div.imagen2 img{
+	display: none;
+
+
+}
+
+div.imagen10 img{
+	display: none;
+
+}
+
+.menu_bar{
+	display: block;
+	width: 100%;
+	background: #00E9C5;
+}
+
+.menu_bar .Boton_M{
+	display: block;
+	padding: 20px;
+	background: #000;	
+	font-size: 25px;
+	font-family: "Roboto", Arial;
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+
+.menu_bar span{
+  float: right;
+  font-size: 40px;
+  color: yellow;
+
+}
+
+.logo{
+display: none;
+}
+.logo2{
+	display: none;
+}
+header{
+	background-color: red;
+}
+.wrap {
+	
+	width: 100%;
+	max-width: 500px;
+	height: 200px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 20%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+}
+.wrap:hover {
+	
+	box-shadow: 0px 0px 40px red; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+/*texto de primer formulario*/
+div .texto{
+	font-family: "Roboto", Arial;
+}
+
+/*parrafo del primer fomulario*/
+div .parrafo1{
+	font-family: "Roboto", Arial;
+	font-size: 20px;
+	text-align: justify;
+}
+/*imagen parte del formulario*/
+div .imagen3 img{
+	display: none;
+
+
+
+}
+div .imagen4 img{
+	display: none;
+
+}
+/*formulario 2*/
+.wrap2 {
+	
+	width: 100%;
+	max-width: 500px;
+	height: 200px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 20%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+}
+.wrap2:hover {
+	
+	box-shadow: 0px 0px 40px red; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+div .texto2{
+	font-family: "Roboto", Arial;
+}
+
+/*primer parrafo del formulario2*/
+div .parrafo2{
+	font-family: "Roboto", Arial;
+	font-size: 20px;
+	text-align: justify;
+}
+/*imagen para el segundo formulario*/
+div .imagen5 img{
+	display: none;
+
+}
+div.gg{
+
+	border:1px  solid;
+	background-image: url(foot.jpg);
+	background-size: 100%;
+	background-position: center;
+	width:99.25%;
+	
+
+}
+div.text{
+	color:#fff;
+	font-size: 15px;
+	font-family: "Roboto", Arial;
+}
+div.imagen{
+	padding: 15px;
+	width: 96%;
+	max-width: 1100px;
+	height: 300px;
+}
+div.imagen img{
+	width: 96%;	
+	height: 300px;
+}
+.yolo input[type=submit]{
+ width: 86%;
+
+  cursor: pointer;
+  font-size: 16px;
+  color: #fff;  
+  padding: 12px;
+  font-family: "Roboto", Arial;  
+   border: 2px solid #D7142E;
+  border-radius: 1px;
+  display: inline-block;
+  background-color: rgba(156, 11, 33, 1);
+  position: absolute;
+  top: 105px;
+  margin-left: 3em;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+  .yolo1 input[type=submit]{
+ width: 86%;
+
+  cursor: pointer;
+  font-size: 16px;
+  color: #fff;  
+  padding: 12px;
+  font-family: "Roboto", Arial;  
+   
+  border-radius: 1px;
+  display: inline-block;
+  
+  position: absolute;
+  top: 165px;
+  margin-left: 3em;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+  .tuto{
+	margin-top: 20px;
+	margin-left: 43%;
+	color: #fff;
+}
+
+
+}
+@media screen and (max-width: 800px){
+	.social{
+
+	position: absolute;
+	margin-top: -120px;
+}
+.social ul li a{
+	display: inline-block;
+	background: #000;
+	padding: 5px 10px;
+	text-decoration: none;
+	color: #fff;
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+.social ul li a:hover{
+	
+	
+	padding: 5px 15px;
+	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+	.wrap {
+
+	
+	width: 100%;
+	max-width: 400px;
+	height: 200px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+}
+.wrap:hover {
+	
+	box-shadow: 0px 0px 40px red; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+/*texto de primer formulario*/
+div .texto{
+	font-family: "Roboto", Arial;
+}
+
+/*parrafo del primer fomulario*/
+div .parrafo1{
+	font-family: "Roboto", Arial;
+	font-size: 18px;
+	text-align: justify;
+}
+/*imagen parte del formulario*/
+div .imagen3 img{
+	display: none;
+
+
+
+}
+div .imagen4 img{
+	display: none;
+
+}
+/*formulario 2*/
+.wrap2 {
+	
+	width: 100%;
+	max-width: 400px;
+	height: 200px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+}
+.wrap2:hover {
+	
+	box-shadow: 0px 0px 40px red; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+div .texto2{
+	font-family: "Roboto", Arial;
+}
+
+/*primer parrafo del formulario2*/
+div .parrafo2{
+	font-family: "Roboto", Arial;
+	font-size: 18px;
+	text-align: justify;
+}
+/*imagen para el segundo formulario*/
+div .imagen5 img{
+	display: none;
+
+}
+div.imagen{
+	
+	padding: 10px;
+	width: 96%;
+	max-width: 1100px;
+	height: 300px;
+}
+div.imagen img{
+	width: 96%;
+	max-width: 1100px;
+	height: 300px;
+}
+
+}
+
+@media screen and (max-width: 600px){
+/*creacion de formulario*/
+.wrap {
+	
+	width: 100%;
+	max-width: 200px;
+	height: 265px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+}
+.wrap:hover {
+	
+	box-shadow: 0px 0px 40px red; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+/*texto de primer formulario*/
+div .texto{
+	font-family: "Roboto", Arial;
+}
+
+/*parrafo del primer fomulario*/
+div .parrafo1{
+	font-family: "Roboto", Arial;
+	font-size: 15px;
+	text-align: justify;
+}
+/*imagen parte del formulario*/
+div .imagen3 img{
+	display: none;
+
+
+
+}
+div .imagen4 img{
+	display: none;
+
+}
+/*formulario 2*/
+.wrap2 {
+	
+	width: 100%;
+	max-width: 200px;
+	height: 280px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+}
+.wrap2:hover {
+	
+	box-shadow: 0px 0px 40px red; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;	
+}
+div .texto2{
+	font-family: "Roboto", Arial;
+}
+
+/*primer parrafo del formulario2*/
+div .parrafo2{
+	font-family: "Roboto", Arial;
+	font-size: 15px;
+	text-align: justify;
+}
+/*imagen para el segundo formulario*/
+div .imagen5 img{
+	display: none;
+
+}
+div.gg{
+
+	border:1px  solid;
+	background-image: url(foot.jpg);
+	background-size: 100%;
+	background-position: center;
+	width:99.25%;
+	
+
+}
+div.text{
+	color:#fff;
+	font-size: 15px;
+	font-family: "Roboto", Arial;
+}
+div.imagen{
+	padding: 0;
+	width: 100%;
+	height: 100px;
+}
+div.imagen img{
+	padding: 0;
+	width: 100%;
+	height: 100px;
+}
+.yolo input[type=submit]{
+ width: 80%;
+
+  cursor: pointer;
+  font-size: 16px;
+  color: #fff;  
+  padding: 12px;
+  font-family: "Roboto", Arial;  
+   border: 2px solid #D7142E;
+  border-radius: 1px;
+  display: inline-block;
+  background-color: rgba(156, 11, 33, 1);
+  position: absolute;
+  top: 90px;
+  margin-left: 3em;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+  .tuto{
+	
+	margin-left: 35%;
+	color: #fff;
+}
+.yolo1 input[type=submit]{
+ width: 80%;
+
+  cursor: pointer;
+  font-size: 16px;
+  color: #fff;  
+  padding: 12px;
+  font-family: "Roboto", Arial;  
+   
+  border-radius: 1px;
+  display: inline-block;
+
+  position: absolute;
+  top: 145px;
+  margin-left: 3em;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+}

@@ -1,0 +1,5434 @@
+
+
+div.formu{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 200px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red, 
+				1px 0 yellow inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu2{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 320px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu2:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu3{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 440px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu3:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu4{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 560px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu4:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu5{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 680px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu5:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu6{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 800px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu6:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	cursor: pointer;	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu7{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 920px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu7:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formu8{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 1040px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu8:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formu9{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 200px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red;				
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu9:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu10{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 320px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu10:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu11{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 440px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu11:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu12{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 560px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu12:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu13{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 680px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu13:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu14{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 800px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu14:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	cursor: pointer;	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu15{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 920px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu15:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formu16{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 1040px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu16:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu17{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 200px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red, 
+				1px 0 yellow inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu17:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu18{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 320px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu18:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu19{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 440px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu19:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu20{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 560px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu20:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu21{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 680px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu21:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu22{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 800px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu22:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	cursor: pointer;	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formu23{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 920px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formu23:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	cursor: pointer;	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+
+
+
+div.texti{
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.imagen img{
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+.titu{
+	
+	margin-top: 40px;
+	font-size: 40px;
+	line-height: 50px;
+	background-color: rgba(255, 21, 35, 0.8);
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+.titu:hover{
+	
+	
+	font-size: 40px;
+	line-height: 50px;
+	box-shadow: 0px 0px 40px yellow; 
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+.seccion {
+	
+	background-image: url(flash19.jpg);
+	background-size: 100%;	
+	width: 100%;
+	height: 100%;
+	
+
+}
+
+.titu2{
+	color: white;
+	font-size: 40px;
+	line-height: 50px;
+	background-color: rgba(21,5, 22, 0.8);	
+	
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+.titu2:hover{
+
+box-shadow: 0px 0px 100px blue; 
+
+}
+
+div.formus{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 200px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+				
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus2{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 320px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus2:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus3{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 440px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus3:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus4{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 560px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus4:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus5{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 680px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus5:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 		
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus6{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 800px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus6:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	cursor: pointer;	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus7{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 920px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus7:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formus8{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 1040px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset;  
+	border-radius: 20%;
+}
+div.formus8:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formus9{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 200px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus9:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+				
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus10{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 320px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus10:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus11{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 440px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus11:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus12{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 560px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus12:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 		
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus13{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 680px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset;  
+	border-radius: 20%;
+}
+div.formus13:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus14{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 800px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus14:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	cursor: pointer;	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus15{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 920px;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus15:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	cursor: pointer;	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+
+.contenedor-menu{
+
+	position: absolute;	
+	left: 85.2%;
+	margin-top: 80px;			
+	display: inline-block;
+	background: red;
+	z-index: 1000;
+	/*border: 5px red solid;*/
+}
+.contenedor-menu .men{
+	width: 100%;
+}
+.contenedor-menu .men ul{
+	list-style: none;
+}
+.contenedor-menu .men li a{
+	border-bottom: 2px solid  rgba(255, 44, 44, 0.7);
+	list-style: none;
+	display: block;
+	padding: 12px 20px;
+	font-size: 15px;
+	color: #fff;
+	font-family: "Roboto", Arial;
+	background-color: rgba(0, 7, 0, 0.9);
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+.contenedor-menu .men .icono.derecha{
+	float: right;
+	margin-left: 5px;
+}
+.contenedor-menu .men li a:hover{
+	background-color: rgba(255, 44, 44, 0.7);
+}
+.contenedor-menu .men ul{
+	display: none;
+}
+.contenedor-menu .men ul li a{
+	background-color: rgba(148, 28, 28, 0.9);
+	color: #fff;
+	font-family: "Roboto", Arial;
+}
+.contenedor-menu .men .activado>a{
+	background-color: rgba(255, 44, 44, 0.7);
+	color: #fff;
+	font-family: "Roboto", Arial;
+
+}
+.men li{
+	list-style: none;
+}
+.men{
+	display: block;
+}
+.men a{
+
+	text-decoration: none;
+}
+.seccion2 {
+	
+	background-image: url(flash18.jpg);
+	background-size: 100%;	
+	width: 100%;
+	height: 100%;
+
+	
+}
+
+.ver{
+	position: absolute;
+	margin-top: -118px;
+	left: 1040px;
+	
+}
+.ver img{
+	
+	width: 100%;
+	max-width: 200px;
+	height: 80px;
+	box-shadow: 0px 0px 10px red;
+}
+
+.mensaje{
+	border-radius: 20%;
+	opacity: 0;
+	margin-top: -110px;
+	color: #fff;
+	font-size: 20px;
+	width: 200px;
+	height: 25px;
+	background-color: rgba(0, 0, 21, 0.7);
+	-moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
+	-webkit-transition:all ease .8s ;
+	transition:all ease .8s;
+}
+
+.ver:hover .mensaje{
+	/*definimos que queremos que mensake se vuelva visible*/
+	filter: alpha(opacity=100);/*dice que la cantidad de visible que se vera*/
+	opacity: 1;
+
+	
+}
+.ver1{
+	position: absolute;
+	margin-top: -118px;
+	left: 1040px;
+	
+}
+
+.ver1 img{
+	
+	width: 100%;
+	max-width: 200px;
+	height: 80px;
+	box-shadow: 0px 0px 10px blue;
+}
+
+.mensaje1{
+	border-radius: 20%;
+	opacity: 0;
+	margin-top: -110px;
+	color: #fff;
+	font-size: 20px;
+	width: 200px;
+	height: 25px;
+	background-color: rgba(0, 0, 21, 0.7);
+	-moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
+	-webkit-transition:all ease .8s ;
+	transition:all ease .8s;
+}
+
+.ver1:hover .mensaje1{
+	/*definimos que queremos que mensake se vuelva visible*/
+	filter: alpha(opacity=100);/*dice que la cantidad de visible que se vera*/
+	opacity: 1;
+
+	
+}
+
+.mensa{
+	position: absolute;
+	background: rgba(0, 0, 0, .7);
+	color: #fff;
+	font-size: 20px;
+	font-family: "Roboto", Arial;
+	width: 200px;
+	height: 25px;
+	border-radius: 20%;
+	text-align: center;
+
+}
+.main4{
+	display: none;
+}
+.main5{
+	display: none;
+}
+/*resopnsive 5*/
+@media screen and (max-width: 1360px){
+	.contenedor-menu .men li a{	
+	border-bottom: 2px solid  rgba(255, 44, 44, 0.7);
+	list-style: none;
+	display: block;
+	padding: 12px 20px;
+	font-size: 12px;
+	color: #fff;
+	font-family: "Roboto", Arial;
+	background-color: rgba(0, 7, 0, 0.9);
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+	}
+}
+/*responsive4*/
+@media screen and (max-width: 1300px){
+.contenedor-menu .men li a{	
+	border-bottom: 2px solid  rgba(255, 44, 44, 0.7);
+	list-style: none;
+	display: block;
+	padding: 12px 20px;
+	font-size: 12px;
+	color: #fff;
+	font-family: "Roboto", Arial;
+	background-color: rgba(0, 7, 0, 0.9);
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+	}
+.main2{
+	display: none;
+}
+.main3{
+	display: none;
+}
+.main4{
+	display: block;
+}
+.main5{
+	display: block;
+}
+div.formul{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red, 
+				1px 0 yellow inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul2{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul2:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul3{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left:31%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul3:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;	
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul4{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 44%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul4:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul5{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 57%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul5:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul6{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul6:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul7{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 83%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul7:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul8{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 1px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul8:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul9{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -119px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red;				
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul9:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul10{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 31%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul10:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul11{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 44%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul11:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul12{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 57%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul12:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul13{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul13:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul14{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 83%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul14:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul15{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 1px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul15:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul16{
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -119px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul16:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul17{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -119px;
+	margin-left: 31%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red, 
+				1px 0 yellow inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul17:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul18{
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 44%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul18:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul19{
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 57%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul19:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul20{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul20:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul21{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 83%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul21:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul22{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 1px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul22:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul23{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 1px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul23:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+
+.seccion{
+	height: 543px;
+}
+
+.ver{
+	width: 100%;
+	max-width: 100px;
+	margin-top: 0px;
+	left: 21.5%;
+	box-shadow: 0px 0px 10px red;
+	margin-left: 10%;
+	
+}
+.ver img{
+	
+	width: 100%;
+	max-width:100px;
+	height: 85px;
+	box-shadow: 0px 0px 10px red;
+}
+.mensaje{
+	border-radius: 20%;	
+	margin-top: -120px;
+	opacity: 1;
+	color: #fff;
+	font-size: 20px;
+	margin-left:-60%;
+	width: 200px;
+	height: 25px;
+	background-color: rgba(0, 0, 21, 0.7);
+	-moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
+	-webkit-transition:all ease .8s ;
+	transition:all ease .8s;
+}
+
+div.texti{
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-weight: bold;
+	font-size: 16px;
+}
+.mensa{
+	margin-top: -35px;
+}
+
+
+
+div.formusl{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl2{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl2:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl3{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 31%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl3:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl4{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 44%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl4:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl5{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 57%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl5:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl6{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl6:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl7{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 83%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl7:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formusl8{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 1px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset;  
+	border-radius: 20%;
+}
+div.formusl8:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formusl9{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl9:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl10{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 31%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl10:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl11{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 44%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl11:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl12{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 57%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl12:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl13{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset;  
+	border-radius: 20%;
+}
+div.formusl13:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl14{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 83%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl14:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formusl15{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -4px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl15:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+
+.ver1{
+
+	width: 100%;
+	max-width: 100px;
+	margin-top: 1px;
+	left: 18%;
+	box-shadow: 0px 0px 10px blue;
+	
+}
+.ver1 img{
+	
+	width: 100%;
+	max-width:100px;
+	height: 85px;
+	box-shadow: 0px 0px 10px blue;
+}
+.mensaje1{
+	border-radius: 20%;	
+	margin-top: -120px;
+	opacity: 1;
+	color: #fff;
+	font-size: 20px;
+	margin-left:-40%;
+	width: 200px;
+	height: 25px;
+	background-color: rgba(0, 0, 21, 0.7);
+	-moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
+	-webkit-transition:all ease .8s ;
+	transition:all ease .8s;
+}
+.seccion2{
+	height: 450px;
+}
+
+.contenedor-menu .men li a{
+	border-bottom: 2px solid  rgba(255, 44, 44, 0.7);
+	list-style: none;
+	display: block;
+	padding: 12px 20px;
+	font-size: 14px;
+	color: #fff;
+	font-family: "Roboto", Arial;
+	background-color: rgba(0, 7, 0, 0.9);
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+.texti1 a{
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-weight: bold;
+	font-size: 16px;
+	color: blue;
+}
+.texti1 {
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-size: 16px;
+	color: blue;
+}
+.contenedor-menu .men li a{	
+	border-bottom: 2px solid  rgba(255, 44, 44, 0.7);
+	list-style: none;
+	display: block;
+	padding: 12px 20px;
+	font-size: 12px;
+	color: #fff;
+	font-family: "Roboto", Arial;
+	background-color: rgba(0, 7, 0, 0.9);
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+	}
+}
+
+
+
+
+
+/*responsive3*/
+@media screen and (max-width: 1000px){
+div.main2{
+	display: none;
+
+}
+div.main3{
+	display: none;
+}
+.main4{
+	display: block;
+}
+.main5{
+	display: block;
+}
+.main2{
+	display: none;
+}
+.main4{
+	display: block;
+}
+div.formul{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red, 
+				1px 0 yellow inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul2{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul2:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul3{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left:31%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul3:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul4{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 44%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul4:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul5{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 57%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul5:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul6{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul6:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul7{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 83%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul7:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul8{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 1px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul8:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul9{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -119px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red;				
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul9:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul10{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 31%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul10:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	cursor: pointer;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul11{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 44%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul11:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul12{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 57%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul12:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul13{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul13:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul14{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 83%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul14:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul15{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 1px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul15:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul16{
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -119px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul16:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul17{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -119px;
+	margin-left: 31%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red, 
+				1px 0 yellow inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul17:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul18{
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 44%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul18:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul19{
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 57%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul19:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul20{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul20:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul21{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 83%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul21:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul22{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 1px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul22:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul23{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 1px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul23:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+
+.seccion{
+	height: 543px;
+}
+
+.ver{
+	width: 100%;
+	max-width: 100px;
+	margin-top: 0px;
+	left: 21.5%;
+	box-shadow: 0px 0px 10px red;
+	margin-left: 10%;
+	
+}
+.ver img{
+	
+	width: 100%;
+	max-width:100px;
+	height: 85px;
+	box-shadow: 0px 0px 10px red;
+}
+.mensaje{
+	border-radius: 20%;	
+	margin-top: -120px;
+	opacity: 1;
+	color: #fff;
+	font-size: 20px;
+	margin-left:-60%;
+	width: 200px;
+	height: 25px;
+	background-color: rgba(0, 0, 21, 0.7);
+	-moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
+	-webkit-transition:all ease .8s ;
+	transition:all ease .8s;
+}
+
+div.texti{
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-weight: bold;
+	font-size: 16px;
+}
+.mensa{
+	margin-top: -35px;
+}
+
+
+
+div.formus{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus2{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus2:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus3{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 31%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus3:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus4{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 44%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus4:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus5{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 57%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus5:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus6{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus6:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus7{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 83%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus7:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formus8{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 1px;
+	margin-left: 5%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset;  
+	border-radius: 20%;
+}
+div.formus8:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formus9{
+
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 18%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus9:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus10{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 31%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus10:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus11{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 44%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus11:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus12{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 57%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus12:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus13{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset;  
+	border-radius: 20%;
+}
+div.formus13:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formus14{
+	position: absolute;
+	width: 100%;
+	max-width: 50px;
+	height: 20px;
+	padding: 30px;  		
+	margin-top: -120px;
+	margin-left: 83%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formus14:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+
+.ver1{
+
+	width: 100%;
+	max-width: 100px;
+	margin-top: 1px;
+	left: 18%;
+	box-shadow: 0px 0px 10px blue;
+	
+}
+.ver1 img{
+	
+	width: 100%;
+	max-width:100px;
+	height: 85px;
+	box-shadow: 0px 0px 10px blue;
+}
+.mensaje1{
+	border-radius: 20%;	
+	margin-top: -120px;
+	opacity: 1;
+	color: #fff;
+	font-size: 20px;
+	margin-left:-40%;
+	width: 200px;
+	height: 25px;
+	background-color: rgba(0, 0, 21, 0.7);
+	-moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
+	-webkit-transition:all ease .8s ;
+	transition:all ease .8s;
+}
+.seccion2{
+	height: 450px;
+}
+.main3{
+	display: none;
+}
+.contenedor-menu{
+
+	position: absolute;	
+	left: 35%;
+	margin-top: 80px;			
+	display: inline-block;
+	background: red;
+	z-index: 1000;
+	/*border: 5px red solid;*/
+	/*gg*/
+}
+.contenedor-menu .men li a{	
+	border-bottom: 2px solid  rgba(255, 44, 44, 0.7);
+	list-style: none;
+	display: block;
+	padding: 12px 20px;
+	font-size: 14px;
+	color: #fff;
+	font-family: "Roboto", Arial;
+	background-color: rgba(0, 7, 0, 0.9);
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+	}
+
+}
+
+/*responsive2*/
+@media screen and (max-width: 800px){
+
+div.formul{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red, 
+				1px 0 yellow inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul2{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;		
+	margin-top: -109.5px;
+	margin-left: 30%;	
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul2:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul3{	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;		
+	margin-top: -109.5px;
+	margin-left: 50%;	
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul3:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul4{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;		
+	margin-top: -109.5px;
+	margin-left: 70%;	
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul4:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul5{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul5:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul6{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 30%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul6:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul7{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 50%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul7:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul8{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul8:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul9{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red;
+				
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul9:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul10{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 30%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul10:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul11{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 50%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul11:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul12{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul12:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul13{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul13:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul14{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 30%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul14:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul15{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 50%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul15:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul16{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul16:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul17{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red, 
+				1px 0 yellow inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul17:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul18{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 30%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul18:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul19{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 50%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul19:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul20{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 70%;
+	margin-bottom: 149px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul20:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul21{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul21:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul22{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 30%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul22:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul23{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 50%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul23:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formusl{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formusl2{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 30%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl2:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl3{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 50%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl3:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl4{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl4:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl5{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl5:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl6{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 30%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl6:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl7{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 50%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl7:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl8{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl8:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl9{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 145px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl9:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl10{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 30%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl10:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl11{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 50%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl11:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl12{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 70%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl12:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl13{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl13:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl14{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 30%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl14:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl15{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 50%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl15:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+.ver{
+	width: 100%;
+	max-width: 100px;
+	margin-top: -120px;
+	left: 60%;
+	box-shadow: 0px 0px 10px red;
+	margin-left: 10%;
+	
+}
+.ver img{
+	
+	width: 100%;
+	max-width:100px;
+	height: 85px;
+	box-shadow: 0px 0px 10px red;
+}
+
+.ver1{
+
+	width: 100%;
+	max-width: 100px;
+	margin-top: 0px;
+	left: 71%;
+	box-shadow: 0px 0px 10px blue;
+	
+}
+.ver1 img{
+	
+	width: 100%;
+	max-width:100px;
+	height: 85px;
+	box-shadow: 0px 0px 10px blue;
+}
+.mensaje{
+	border-radius: 20%;	
+	margin-top: -130px;
+	opacity: 1;
+	color: #fff;
+	font-size: 20px;
+	margin-left:-60%;
+	width: 200px;
+	height: 25px;
+	background-color: rgba(0, 0, 21, 0.7);
+	-moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
+	-webkit-transition:all ease .8s ;
+	transition:all ease .8s;
+}
+.mensa{
+
+	margin-top: -35px;
+
+}
+.mensaje1{
+	border-radius: 20%;	
+	margin-top: -130px;
+	opacity: 1;
+	color: #fff;
+	font-size: 20px;
+	margin-left:-50%;
+	width: 200px;
+	height: 25px;
+	background-color: rgba(0, 0, 21, 0.7);
+	-moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
+	-webkit-transition:all ease .8s ;
+	transition:all ease .8s;
+}
+div.texti{
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.seccion{
+	height: 100%;
+}
+.seccion2{
+	height: 550px;
+}
+
+.texti1 a{
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-weight: bold;
+	font-size: 16px;
+	color: blue;
+}
+.texti a{
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-weight: bold;
+	font-size: 16px;
+	
+}
+.texti1 {
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-size: 16px;
+	color: blue;
+}
+.contenedor-menu{
+
+	position: absolute;	
+	left: 35%;
+	margin-top: 100px;			
+	display: inline-block;
+	background: red;
+	z-index: 1000;
+	/*border: 5px red solid;*/
+	/*gg*/
+}
+}
+/*ayuda de respoonsive*/
+.mensagino{
+	position: absolute;
+	width: 100%;
+background: rgba(0,0,0,.5);
+	margin-top: 3.5em;
+	height: 30px;
+	text-align: center;
+	color: #fff;	
+	font-family: "Roboto", Arial;
+	font-size: 20px;
+
+}
+.mensagino{
+	display: none;
+}
+/*responsive*/
+
+@media screen and (max-width: 600px){
+.mensagino{
+	display: block;
+}
+div.formul{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red, 
+				1px 0 yellow inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul2{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;		
+	margin-top: -109.5px;
+	margin-left: 60%;	
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul2:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul3{	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;		
+	margin-top: 30px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul3:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul4{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul4:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul5{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul5:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul6{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul6:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul7{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul7:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul8{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul8:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul9{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red;
+				
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul9:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul10{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul10:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul11{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul11:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul12{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul12:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul13{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul13:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul14{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul14:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul15{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul15:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formul16{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul16:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul17{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red, 
+				1px 0 yellow inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul17:hover{
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul18{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul18:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul19{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul19:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul20{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul20:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul21{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul21:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul22{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul22:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formul23{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 108px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px red; 
+	border-radius: 20%;
+}
+div.formul23:hover{	
+	box-shadow: 0px 0px 50px red,
+				150px 0 yellow inset;
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formusl{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 40px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl2{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;		
+	margin-top: -109.5px;
+	margin-left: 60%;	
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl2:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl3{	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;		
+	margin-top: 0px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl3:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl4{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl4:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl5{
+	
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 108px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl5:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;		
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl6{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 108px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl6:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl7{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 208px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl7:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formusl8{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top:208px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset;  
+	border-radius: 20%;
+}
+div.formusl8:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+
+div.formusl9{
+
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 348px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl9:hover{
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+				
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl10{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: -109.5px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl10:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset; 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl11{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl11:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl12{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 0px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl12:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl13{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 108px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl13:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;	 	
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl14{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 108px;
+	margin-left: 60%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl14:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.formusl15{
+	width: 100%;
+	max-width: 50px;
+	height: 10px;
+	padding: 30px;  		
+	margin-top: 208px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	background:#fff;
+	box-shadow: 0px 0px 10px blue, 
+				1px 0 purple inset; 
+	border-radius: 20%;
+}
+div.formusl15:hover{	
+	box-shadow: 0px 0px 50px blue,
+				150px 0 purple inset;
+		
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease; 
+}
+div.main2{
+	display: none;
+
+}
+div.main3{
+	display: none;
+}
+.main4{
+	display: block;
+}
+.main5{
+	display: block;
+}
+.ver{
+	width: 100%;
+	max-width: 100px;
+	margin-top: 100px;
+	left: 52%;
+	box-shadow: 0px 0px 10px red;
+	
+}
+.ver img{
+	
+	width: 100%;
+	max-width:100px;
+	height: 100px;
+	box-shadow: 0px 0px 10px red;
+}
+
+.ver1{
+
+	width: 100%;
+	max-width: 100px;
+	margin-top: 208px;
+	left: 61%;
+	box-shadow: 0px 0px 10px blue;
+	
+}
+.ver1 img{
+	
+	width: 100%;
+	max-width:100px;
+	height: 85px;
+	box-shadow: 0px 0px 10px blue;
+}
+.mensaje{
+	border-radius: 20%;	
+	margin-top: -130px;
+	opacity: 1;
+	color: #fff;
+	font-size: 20px;
+	margin-left:-115%;
+	width: 200px;
+	height: 25px;
+	background-color: rgba(0, 0, 21, 0.7);
+	-moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
+	-webkit-transition:all ease .8s ;
+	transition:all ease .8s;
+}
+.mensa{
+
+	margin-top: -35px;
+
+}
+.mensaje1{
+	border-radius: 20%;	
+	margin-top: -115px;
+	opacity: 1;
+	color: #fff;
+	font-size: 20px;
+	margin-left:-115%;
+	width: 200px;
+	height: 25px;
+	background-color: rgba(0, 0, 21, 0.7);
+	-moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
+	-webkit-transition:all ease .8s ;
+	transition:all ease .8s;
+}
+div.texti{
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-weight: bold;
+	font-size: 16px;
+}
+.seccion2{
+	height: 1040px;
+}
+.seccion{
+	height: 1450px;
+}
+.texti1 {
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-size: 16px;
+	color: blue;
+}
+.texti a{
+	text-align: center;
+	font-family: "Roboto", Arial;
+	font-weight: bold;
+	font-size: 16px;
+	
+}
+.contenedor-menu{
+	display: none;
+}
+
+
+}
+
+
+
+
+
